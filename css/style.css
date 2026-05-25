@@ -845,7 +845,7 @@ transform-origin: center;
     font-size: 16px;
 }
 .hero__bg {
-    background-position:-800px 0;
+    background-position:-220px 0;
 }
 .observatori__items{
     grid-template-columns: repeat(auto-fit, minmax(300px,1fr));
