@@ -322,7 +322,7 @@ transform: scale(1);
 .image-card-residense__link {
     position: absolute;
     left: 36px;
-    bottom: 50px;
+    top: 30px;
     font-size: 14px;
     border-radius: 20px;
 }
